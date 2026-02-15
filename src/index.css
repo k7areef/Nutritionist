@@ -1,0 +1,76 @@
+@import "tailwindcss";
+
+@utility container {
+  margin-inline: auto;
+  padding-inline: 2rem;
+  width: 100%;
+  max-width: 80rem;
+}
+
+@theme {
+  /* Green Shades */
+  --color-green-70: #cbea7b;
+  --color-green-75: #d3ee91;
+  --color-green-80: #dcf1a7;
+  --color-green-85: #e5f5bd;
+  --color-green-90: #eef8d3;
+  --color-green-95: #f6fbe9;
+  --color-green-97: #fafdf2;
+  --color-green-99: #fdfefb;
+  /* Dark Green Shades */
+  --color-dark-green-15: #1a3129;
+  --color-dark-green-20: #234338;
+  --color-dark-green-25: #2c5446;
+  --color-dark-green-30: #346454;
+  --color-dark-green-40: #468671;
+  --color-dark-green-60: #79b9a4;
+  --color-dark-green-80: #bcdcd1;
+  --color-dark-green-90: #ddede8;
+  /* Grey Shades */
+  --color-grey-10: #191919;
+  --color-grey-15: #262626;
+  --color-grey-20: #333333;
+  --color-grey-30: #4c4c4d;
+  --color-grey-35: #59595a;
+  --color-grey-40: #656567;
+  --color-grey-60: #98989a;
+  --color-grey-90: #e6e6e6;
+  --color-grey-95: #f2f2f2;
+  --color-grey-97: #f7f7f7;
+  --color-grey-99: #fcfcfc;
+}
+
+/* Global */
+html,
+body {
+  font-family: "Urbanist", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+button {
+  cursor: pointer;
+}
+
+input:focus,
+textarea:focus,
+button:focus {
+  outline: none;
+}
+
+p {
+  font-size: 14px;
+  color: var(--color-grey-30);
+}
+
+@media (min-width: 768px) {
+  p {
+    font-size: 16px;
+  }
+}
+
+@media (min-width: 1024px) {
+  p {
+    font-size: 18px;
+  }
+}
