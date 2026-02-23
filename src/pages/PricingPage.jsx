@@ -1,3 +1,4 @@
+import CTA from "@components/Sections/CTA";
 import HeaderInformation from "@components/Sections/HeaderInformation";
 import useChangeTitle from "@hooks/useChangeTitle";
 

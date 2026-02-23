@@ -12,7 +12,7 @@ function AboutPage() {
                 <HeaderInformation page="about" />
                 <OurStory />
                 <Achievements />
-                <CTA />
+                <CTA page="about" />
             </main>
         </div>
     )

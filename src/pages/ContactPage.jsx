@@ -8,7 +8,7 @@ function ContactPage() {
         <div className="contact-page">
             <main>
                 <HeaderInformation page="contact" />
-                <CTA />
+                <CTA page="common" /> {/* Default CTA */}
             </main>
         </div>
     )

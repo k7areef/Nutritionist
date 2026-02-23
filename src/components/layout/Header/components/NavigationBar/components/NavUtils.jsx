@@ -20,7 +20,7 @@ function NavUtils({ className = "", isOpen = false, toggleMenu = () => { } }) {
             <button
                 type="button"
                 onClick={toggleMenu}
-                className="md:hidden text-2xl"
+                className="md:hidden text-3xl"
                 title={isOpen ? "Close" : "Open"}
                 aria-label={isOpen ? "Close" : "Open"}
             >

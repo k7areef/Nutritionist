@@ -8,7 +8,7 @@ function TeamMembersPage() {
         <div className="team-members-page">
             <main>
                 <HeaderInformation page="team" />
-                <CTA />
+                <CTA page="team" />
             </main>
         </div>
     )

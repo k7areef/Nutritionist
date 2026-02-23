@@ -10,7 +10,7 @@ function ProcessPage() {
             <main>
                 <HeaderInformation page="process" />
                 <HowItWork />
-                <CTA />
+                <CTA page="common" /> {/* Default CTA */}
             </main>
         </div>
     )
