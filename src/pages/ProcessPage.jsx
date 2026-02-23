@@ -1,3 +1,4 @@
+import CTA from "@components/Sections/CTA";
 import HeaderInformation from "@components/Sections/HeaderInformation";
 import HowItWork from "@components/Sections/HowItWork";
 import useChangeTitle from "@hooks/useChangeTitle";
@@ -9,6 +10,7 @@ function ProcessPage() {
             <main>
                 <HeaderInformation page="process" />
                 <HowItWork />
+                <CTA />
             </main>
         </div>
     )
