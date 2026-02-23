@@ -1,11 +1,8 @@
-{
-    "title": "Our Blogs",
-    "description": "Our blog is a treasure trove of informative and engaging articles written by our team of nutritionists, dietitians, and wellness experts. Here's what you can expect from our blog.",
-    "blogs": [
+[
         {
             "id": 1,
             "title": "10 Effective Strategies for Sustainable Weight Loss",
-            "description": "dDiscover proven strategies for long-term weight loss success. Learn how to create healthy habits, set achievable goals, and make sustainable lifestyle changes.n",
+            "description": "Discover proven strategies for long-term weight loss success. Learn how to create healthy habits, set achievable goals, and make sustainable lifestyle changes.",
             "category": "Weight Loss Tips"
         },
         {
@@ -75,4 +72,3 @@
             "category": "Recipes and Meal Planning"
         }
     ]
-}

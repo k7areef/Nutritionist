@@ -1,7 +1,7 @@
-import Blogs from "@components/Sections/Blogs";
+import OurBlogs from "@components/Sections/OurBlogs";
 import Features from "@components/Sections/Features";
 import HeroSection from "@components/Sections/HeroSection";
-import Pricing from "@components/Sections/Pricing";
+import OurPricing from "@components/Sections/OurPricing";
 import Testimonials from "@components/Sections/Testimonials";
 import useChangeTitle from "@hooks/useChangeTitle";
 
@@ -12,9 +12,9 @@ function HomePage() {
             <main>
                 <HeroSection />
                 <Features />
-                <Blogs />
+                <OurBlogs />
                 <Testimonials />
-                <Pricing />
+                <OurPricing />
             </main>
         </div>
     )

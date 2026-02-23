@@ -5,77 +5,92 @@
         {
             "id": 1,
             "comment": "I can't thank Nutritionist enough for their personalized nutrition coaching. It has completely transformed my approach to food and helped me shed those extra pounds. Highly recommended!",
-            "name": "Jennifer Anderson"
+            "name": "Jennifer Anderson",
+            "avatar": "avatar"
         },
         {
             "id": 2,
             "comment": "Nutritionist has been a game-changer for me. The expert guidance and support I received from their team made my weight loss journey so much easier. Thank you!",
-            "name": "Robert Johnson"
+            "name": "Robert Johnson",
+            "avatar": "avatar"
         },
         {
             "id": 3,
             "comment": "I had struggled with my weight for years until I found Nutritionist. Their personalized approach and tailored nutrition plan made all the difference. I've never felt better!",
-            "name": "Emily Davis"
+            "name": "Emily Davis",
+            "avatar": "avatar"
         },
         {
             "id": 4,
             "comment": "The meal plans provided were so easy to follow and incredibly delicious. I never felt like I was on a 'diet', but rather a lifestyle change.",
-            "name": "Michael Brown"
+            "name": "Michael Brown",
+            "avatar": "avatar"
         },
         {
             "id": 5,
             "comment": "I've gained so much energy since following the personalized advice. My sleep quality has improved and I feel more focused at work.",
-            "name": "Sarah Wilson"
+            "name": "Sarah Wilson",
+            "avatar": "avatar"
         },
         {
             "id": 6,
             "comment": "Their professional team helped me manage my digestive issues through proper nutrition. It's been a life-changing experience for me.",
-            "name": "David Martinez"
+            "name": "David Martinez",
+            "avatar": "avatar"
         },
         {
             "id": 7,
             "comment": "Outstanding support! The weekly check-ins kept me accountable and motivated. I've reached my goal weight and feel amazing.",
-            "name": "Jessica Taylor"
+            "name": "Jessica Taylor",
+            "avatar": "avatar"
         },
         {
             "id": 8,
             "comment": "The best investment I've made for my health. The nutritionists are knowledgeable and truly care about your long-term success.",
-            "name": "Christopher Lee"
+            "name": "Christopher Lee",
+            "avatar": "avatar"
         },
         {
             "id": 9,
             "comment": "I learned how to balance my meals without giving up my favorite foods. The flexible approach is what makes this program work.",
-            "name": "Amanda White"
+            "name": "Amanda White",
+            "avatar": "avatar"
         },
         {
             "id": 10,
             "comment": "As an athlete, I needed a specific plan to improve my performance. The sports nutrition guidance I received was top-notch.",
-            "name": "James Thompson"
+            "name": "James Thompson",
+            "avatar": "avatar"
         },
         {
             "id": 11,
             "comment": "Highly professional and empathetic. They listened to my concerns and created a plan that fit perfectly into my busy schedule.",
-            "name": "Laura Garcia"
+            "name": "Laura Garcia",
+            "avatar": "avatar"
         },
         {
             "id": 12,
             "comment": "I was skeptical at first, but the results speak for themselves. My blood sugar levels are stable and I have much more vitality.",
-            "name": "Daniel Robinson"
+            "name": "Daniel Robinson",
+            "avatar": "avatar"
         },
         {
             "id": 13,
             "comment": "A wonderful journey to health! The educational resources provided helped me understand the 'why' behind my food choices.",
-            "name": "Michelle Clark"
+            "name": "Michelle Clark",
+            "avatar": "avatar"
         },
         {
             "id": 14,
             "comment": "Incredible experience! The community support and expert advice helped me overcome my emotional eating habits for good.",
-            "name": "Kevin Rodriguez"
+            "name": "Kevin Rodriguez",
+            "avatar": "avatar"
         },
         {
             "id": 15,
             "comment": "Finally a program that works! No fads, just science-based nutrition that is sustainable for the rest of my life.",
-            "name": "Ashley Lewis"
+            "name": "Ashley Lewis",
+            "avatar": "avatar"
         }
     ]
 }

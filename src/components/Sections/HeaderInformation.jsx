@@ -1,6 +1,6 @@
 import data from "@data/headersInformation.json";
-import hero from "@assets/images/header-information-abstract.png"
-import icon from "@assets/images/header-information-icon.png"
+import hero from "@assets/images/header-information/header-information-abstract.png"
+import icon from "@assets/images/header-information/header-information-icon.png"
 
 /**
  * @param {Object} props

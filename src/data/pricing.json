@@ -1,0 +1,58 @@
+{
+    "title": "Our Pricing",
+    "description": "We outline our flexible and affordable options to support you on your journey to optimal health and nutrition. We believe that everyone deserves access to personalized nutrition guidance and resources",
+    "plans": [
+        {
+            "id": 1,
+            "name": "Basic Plan",
+            "subtitle": "Up to 50% off on Yearly Plan",
+            "description": "Get started on your health journey with our Basic Plan. It includes personalized nutrition coaching, access to our app, meal planning assistance, and email support.",
+            "price": {
+                "monthly": "$49",
+                "yearly": "$499"
+            },
+            "features": [
+                "Personalized nutrition plan tailored to your goals and dietary preferences.",
+                "Access to our mobile app for convenient meal tracking and progress monitoring.",
+                "Email support to address your questions and concerns.",
+                "Regular check-ins with a dedicated nutritionist to review your progress and provide guidance."
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Premium Plan",
+            "subtitle": "Up to 50% off on Yearly Plan",
+            "description": "Upgrade to our Premium Plan for enhanced features. In addition to the Basic Plan, you'll receive video consultations, priority support, and personalized recipe recommendations.",
+            "price": {
+                "monthly": "$79",
+                "yearly": "$799"
+            },
+            "features": [
+                "All the features included in the Basic Plan.",
+                "One-on-one video consultations with your dedicated nutritionist for more personalized guidance and support.",
+                "Recipe recommendations and meal planning assistance.",
+                "Priority email support for quicker responses to your inquiries.",
+                "Educational resources and guides to deepen your understanding of nutrition and healthy habits."
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Ultimate Plan",
+            "subtitle": "Up to 50% off on Yearly Plan",
+            "description": "Experience the full benefits of personalized nutrition coaching with our Ultimate Plan. Enjoy all the features of the Premium Plan, along with 24/7 chat support and exclusive workshops.",
+            "price": {
+                "monthly": "$49",
+                "yearly": "$499"
+            },
+            "features": [
+                "All the features included in the Plus Plan.",
+                "Unlimited access to video consultations with your dedicated nutritionist for ongoing support and accountability.",
+                "Advanced progress tracking tools to monitor your weight, body measurements, and fitness goals.",
+                "Customized meal plans and recipe suggestions based on your preferences and nutritional needs.",
+                "Priority email and phone support for immediate assistance."
+            ],
+            "customDescription": "The Premium Plan is designed for individuals who are committed to achieving significant results and require the highest level of support and personalization."
+        }
+    ]
+
+}

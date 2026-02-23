@@ -9,14 +9,14 @@ import PricingPage from "@pages/PricingPage";
 import ProcessPage from "@pages/ProcessPage";
 import TeamMembersPage from "@pages/TeamMembersPage";
 // Common Components:
-import NavigationBar from "@components/layout/NavigationBar";
 import Footer from "@components/layout/Footer";
+import Header from "@components/layout/Header";
 
 function App() {
   return (
     <div className="App bg-green-97 text-grey-15 min-h-screen">
-      {/* Navigation Bar */}
-      <NavigationBar />
+      {/* Header */}
+      <Header />
       {/* Routes */}
       <Routes>
         <Route path="/" element={<HomePage />} />
