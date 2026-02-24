@@ -1,4 +1,12 @@
-[
+{
+    "categories": [
+        "Weight Loss Tips",
+        "Healthy Eating",
+        "Fitness and Exercise",
+        "Mindset and Motivation",
+        "Recipes and Meal Planning"
+    ],
+    "blogs": [
         {
             "id": 1,
             "title": "10 Effective Strategies for Sustainable Weight Loss",
@@ -72,3 +80,4 @@
             "category": "Recipes and Meal Planning"
         }
     ]
+}
