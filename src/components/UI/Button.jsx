@@ -18,7 +18,7 @@ function Button({ variant = "primary", to = "", href = "", children, ...props })
 
     const variants = {
         primary: "bg-green-70 text-grey-15 sm:hover:bg-green-80",
-        secondary: "bg-green-95 text-white border border-green-85 sm:hover:bg-green-90",
+        secondary: "bg-green-95 border border-green-85 sm:hover:bg-green-90",
         ghost: "bg-transparent text-inherit",
         dark: "bg-dark-green-20 text-white",
     }

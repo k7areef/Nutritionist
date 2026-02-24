@@ -11,7 +11,7 @@ function NavigationBar() {
 
     return (
         <nav className="navigation-bar bg-dark-green-15 py-4 border-b border-b-green-90 text-white">
-            <div className="container flex items-center gap-x-5 max-md:justify-between max-md:flex-wrap">
+            <div className="container flex items-center gap-x-5 max-lg:justify-between max-lg:flex-wrap">
                 <AppLogo />
                 <NavMenu className="md:ms-auto" isOpen={menuIsOpen} colseMenu={colseMenu} />
                 <NavUtils isOpen={menuIsOpen} toggleMenu={toggleMenu} />
