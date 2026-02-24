@@ -34,7 +34,7 @@ function Blogs() {
             <div className="container">
                 <div className="content-wrapper bg-[#f6fbe8] border border-green-85 rounded-lg grid lg:grid-cols-2">
                     {
-                        data.blogs.map((blog, index) => (<div className="blog-card even:border-s even:border-s-green-85 border-b border-b-green-85" key={index}>
+                        data.blogs.map((blog, index) => (<div className="blog-card even:border-s even:border-s-green-85 border-b border-b-green-85 nth-last-[1]:border-b-0 nth-last-[2]:border-b-0" key={index}>
                             <div className="head-category p-5 mb-5">
                                 <div className="pb-2 border-b border-b-green-70 w-fit font-semibold text-lg">{blog.category}</div>
                             </div>
