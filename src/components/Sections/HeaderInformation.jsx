@@ -3,18 +3,22 @@ import hero from "@assets/images/header-information/header-information-abstract.
 import icon from "@assets/images/header-information/header-information-icon.png"
 
 /**
- * @param {Object} props
- * @param {'about' | 'team' | 'process' | 'pricing' | 'blogs' | 'contact'} props.page
+ * @typedef {Object} HeaderInformationProps
+ * @prop {string} [className]
+ * @prop {'about' | 'team' | 'process' | 'pricing' | 'blogs' | 'contact'} [page]
+ */
+/**
+ * @param {HeaderInformationProps} props
  */
 
-function HeaderInformation({ page = "about" }) {
+function HeaderInformation({ page = "about", className = "" }) {
 
     const { title, description } = data[page]
 
     return (
-        <section className="header-information-section py-5 md:py-10" id="headerInformation">
+        <section className="header-information-section pt-5 md:pt-10" id="headerInformation">
             <div className="container">
-                <div className="content-wrapper p-5 md:p-10 pt-0! bg-green-95 border border-green-85 rounded-xl flex items-center justify-center flex-col gap-y-5 text-center">
+                <div className={`content-wrapper p-5 md:p-10 pt-0! bg-green-95 border border-green-85 rounded-xl flex items-center justify-center flex-col gap-y-5 text-center${className ? " " + className : ""}`}>
                     <div className="hero-container relative">
                         <img
                             src={hero}

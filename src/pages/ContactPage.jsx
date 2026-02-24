@@ -9,7 +9,7 @@ function ContactPage() {
     return (
         <div className="contact-page">
             <main>
-                <HeaderInformation page="contact" />
+                <HeaderInformation page="contact" className="rounded-b-none" />
                 <ContactInformation />
                 <ContactForm />
                 <CTA page="common" /> {/* Default CTA */}
