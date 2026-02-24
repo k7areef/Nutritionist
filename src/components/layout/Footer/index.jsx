@@ -55,7 +55,7 @@ function Footer() {
                         {
                             contactInfo.map((contact, index) => (<a
                                 key={contact.id || index}
-                                href={contact.value}
+                                href={contact.href}
                                 title={contact.label}
                                 aria-label={contact.label}
                                 rel="noopener noreferrer"
