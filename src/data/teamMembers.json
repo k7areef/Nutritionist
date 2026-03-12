@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Mitchell",
+    "description": "Founder and CEO"
+  },
+  {
+    "id": 2,
+    "name": "Emily Thompson",
+    "description": "Chief Operating Officer"
+  },
+  {
+    "id": 3,
+    "name": "John Davis",
+    "description": "Chief Financial Officer"
+  },
+  {
+    "id": 4,
+    "name": "Rachel Adams",
+    "description": "Chief Marketing Officer"
+  }
+]
